@@ -1,5 +1,7 @@
 # git intro
 
+## local git
+
 1. 초기화 `$ git init`
 
    1. 실제로는 .git/폴더가 생성됨
@@ -15,14 +17,15 @@
 
 4. stage에 올리기`$git add`
 
+   1. 특정 파일만 올리기 `$ git add '파일이름'`
+   2. 내 위치 폴더 다 올리기 `$ git add .`
+
 5. snapshot(사진)찍기`$git commit`
 
 6. 로그(사진첩) 보기`$git log`
 
-   명령어
-
-   1. 폴더 만들기 mkdir
-   2. 
+   
 
    
 
+## github
