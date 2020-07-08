@@ -17,7 +17,7 @@
 
 4. stage에 올리기`$git add`
 
-   1. 특정 파일만 올리기 `$ git add '파일이름'`
+   1. 특정 파일만 올리기 `$ git add "파일이름"`
    2. 내 위치 폴더 다 올리기 `$ git add .`
 
 5. snapshot(사진)찍기`$git commit`
@@ -29,3 +29,9 @@
    
 
 ## github
+
+1. 원격저장소(remote repository) 생성
+2. 로컬 리포 -> 리모트 리포 `$ git remote add origin "url"`
+3. 로컬 커밋들을 리모트로 보내기 `$ git push origin master`
+4. `$git push == $git push origin master`로 단축 명령하기 -> `$git push -u origin master`
+
