@@ -41,7 +41,9 @@
 
 1. git 다운로드 후 세팅
 
-2. clone하기 `$ git clone "URL"`
+2. 오른쪽 마우스 누르고, git bash에서 홈으로 지정해주기
+
+3. clone하기 `$ git clone "URL"`
 
    
 
