@@ -40,9 +40,10 @@
 ## 집
 
 1. git 다운로드 후 세팅
-2. clone
 
+2. clone하기 `$ git clone "URL"`
 
+   
 
 ## TIL 관리 시나리오
 
